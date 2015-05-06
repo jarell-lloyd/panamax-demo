@@ -1,0 +1,13 @@
+---
+name: Java Glassfish App
+description: Glassfish + Redis
+keywords: glassfish, redis, java, war
+type: Java
+documentation: ''
+images:
+- name: glassfish_latest
+  source: glassfish:latest
+  type: Default
+- name: redis
+  source: redis:latest
+  type: Default
